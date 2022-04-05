@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Ajinkya Aher<img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="50px" style="max-width: 100%;"></h1>
 <h3 align="center">A Full stack developer</h3>
 
+- 🔭 My Project is: [Epic Games Clone](https://epicgamesclone.vercel.app/)
 - 🔭 My Project is: [Steve Madden Clone](https://steve-madden-full.netlify.app/index.html)
 
 - 🔭 My Project is: [KFC Clone](https://vigilant-bell-ef231c.netlify.app/)
